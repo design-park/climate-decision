@@ -3,6 +3,7 @@ export const decisionTree = {
     id: "N_0_0",
     year: "2025",
     text: "It's 2025. Do you support implementing bold policies to phase out coal use?",
+    defaultEffect: "N00",
     options: [
       {
         label: "Yes – Introduce a $20 per ton coal tax and cut new coal infrastructure by 60%",
