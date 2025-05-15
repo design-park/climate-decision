@@ -1,4 +1,4 @@
-export const emissionsData_N21 = [
+export const emissionsData_N22 = [
   {
     "Year": 2000,
     "Current Scenario": 40.57
@@ -105,302 +105,302 @@ export const emissionsData_N21 = [
   },
   {
     "Year": 2026,
-    "Current Scenario": 59.31
+    "Current Scenario": 59.34
   },
   {
     "Year": 2027,
-    "Current Scenario": 59.43
+    "Current Scenario": 59.49
   },
   {
     "Year": 2028,
-    "Current Scenario": 59.53
-  },
-  {
-    "Year": 2029,
     "Current Scenario": 59.61
   },
   {
+    "Year": 2029,
+    "Current Scenario": 59.72
+  },
+  {
     "Year": 2030,
-    "Current Scenario": 59.68
+    "Current Scenario": 59.81
   },
   {
     "Year": 2031,
-    "Current Scenario": 59.73
+    "Current Scenario": 59.89
   },
   {
     "Year": 2032,
-    "Current Scenario": 59.76
+    "Current Scenario": 59.96
   },
   {
     "Year": 2033,
-    "Current Scenario": 59.79
+    "Current Scenario": 60
   },
   {
     "Year": 2034,
-    "Current Scenario": 59.8
+    "Current Scenario": 60.01
   },
   {
     "Year": 2035,
-    "Current Scenario": 59.81
+    "Current Scenario": 60.01
   },
   {
     "Year": 2036,
-    "Current Scenario": 59.86
-  },
-  {
-    "Year": 2037,
-    "Current Scenario": 59.88
-  },
-  {
-    "Year": 2038,
-    "Current Scenario": 59.9
-  },
-  {
-    "Year": 2039,
-    "Current Scenario": 59.92
-  },
-  {
-    "Year": 2040,
-    "Current Scenario": 59.95
-  },
-  {
-    "Year": 2041,
     "Current Scenario": 59.98
   },
   {
-    "Year": 2042,
-    "Current Scenario": 60.02
+    "Year": 2037,
+    "Current Scenario": 59.94
   },
   {
-    "Year": 2043,
-    "Current Scenario": 60.07
+    "Year": 2038,
+    "Current Scenario": 59.88
   },
   {
-    "Year": 2044,
-    "Current Scenario": 60.12
-  },
-  {
-    "Year": 2045,
-    "Current Scenario": 60.19
-  },
-  {
-    "Year": 2046,
-    "Current Scenario": 60.26
-  },
-  {
-    "Year": 2047,
-    "Current Scenario": 60.34
-  },
-  {
-    "Year": 2048,
-    "Current Scenario": 60.42
-  },
-  {
-    "Year": 2049,
-    "Current Scenario": 60.5
-  },
-  {
-    "Year": 2050,
-    "Current Scenario": 60.58
-  },
-  {
-    "Year": 2051,
-    "Current Scenario": 60.66
-  },
-  {
-    "Year": 2052,
-    "Current Scenario": 60.74
-  },
-  {
-    "Year": 2053,
-    "Current Scenario": 60.81
-  },
-  {
-    "Year": 2054,
-    "Current Scenario": 60.88
-  },
-  {
-    "Year": 2055,
-    "Current Scenario": 60.94
-  },
-  {
-    "Year": 2056,
-    "Current Scenario": 61
-  },
-  {
-    "Year": 2057,
-    "Current Scenario": 61.04
-  },
-  {
-    "Year": 2058,
-    "Current Scenario": 61.04
-  },
-  {
-    "Year": 2059,
-    "Current Scenario": 60.99
-  },
-  {
-    "Year": 2060,
-    "Current Scenario": 60.94
-  },
-  {
-    "Year": 2061,
-    "Current Scenario": 60.89
-  },
-  {
-    "Year": 2062,
-    "Current Scenario": 60.84
-  },
-  {
-    "Year": 2063,
-    "Current Scenario": 60.79
-  },
-  {
-    "Year": 2064,
-    "Current Scenario": 60.74
-  },
-  {
-    "Year": 2065,
-    "Current Scenario": 60.69
-  },
-  {
-    "Year": 2066,
-    "Current Scenario": 60.63
-  },
-  {
-    "Year": 2067,
-    "Current Scenario": 60.57
-  },
-  {
-    "Year": 2068,
-    "Current Scenario": 60.51
-  },
-  {
-    "Year": 2069,
-    "Current Scenario": 60.44
-  },
-  {
-    "Year": 2070,
-    "Current Scenario": 60.37
-  },
-  {
-    "Year": 2071,
-    "Current Scenario": 60.29
-  },
-  {
-    "Year": 2072,
-    "Current Scenario": 60.21
-  },
-  {
-    "Year": 2073,
-    "Current Scenario": 60.13
-  },
-  {
-    "Year": 2074,
-    "Current Scenario": 60.03
-  },
-  {
-    "Year": 2075,
-    "Current Scenario": 59.92
-  },
-  {
-    "Year": 2076,
+    "Year": 2039,
     "Current Scenario": 59.81
   },
   {
-    "Year": 2077,
-    "Current Scenario": 59.68
+    "Year": 2040,
+    "Current Scenario": 59.73
   },
   {
-    "Year": 2078,
+    "Year": 2041,
+    "Current Scenario": 59.64
+  },
+  {
+    "Year": 2042,
     "Current Scenario": 59.55
   },
   {
+    "Year": 2043,
+    "Current Scenario": 59.48
+  },
+  {
+    "Year": 2044,
+    "Current Scenario": 59.42
+  },
+  {
+    "Year": 2045,
+    "Current Scenario": 59.38
+  },
+  {
+    "Year": 2046,
+    "Current Scenario": 59.36
+  },
+  {
+    "Year": 2047,
+    "Current Scenario": 59.36
+  },
+  {
+    "Year": 2048,
+    "Current Scenario": 59.39
+  },
+  {
+    "Year": 2049,
+    "Current Scenario": 59.44
+  },
+  {
+    "Year": 2050,
+    "Current Scenario": 59.51
+  },
+  {
+    "Year": 2051,
+    "Current Scenario": 59.58
+  },
+  {
+    "Year": 2052,
+    "Current Scenario": 59.67
+  },
+  {
+    "Year": 2053,
+    "Current Scenario": 59.76
+  },
+  {
+    "Year": 2054,
+    "Current Scenario": 59.87
+  },
+  {
+    "Year": 2055,
+    "Current Scenario": 59.99
+  },
+  {
+    "Year": 2056,
+    "Current Scenario": 60.12
+  },
+  {
+    "Year": 2057,
+    "Current Scenario": 60.25
+  },
+  {
+    "Year": 2058,
+    "Current Scenario": 60.37
+  },
+  {
+    "Year": 2059,
+    "Current Scenario": 60.5
+  },
+  {
+    "Year": 2060,
+    "Current Scenario": 60.64
+  },
+  {
+    "Year": 2061,
+    "Current Scenario": 60.78
+  },
+  {
+    "Year": 2062,
+    "Current Scenario": 60.92
+  },
+  {
+    "Year": 2063,
+    "Current Scenario": 61.06
+  },
+  {
+    "Year": 2064,
+    "Current Scenario": 61.2
+  },
+  {
+    "Year": 2065,
+    "Current Scenario": 61.34
+  },
+  {
+    "Year": 2066,
+    "Current Scenario": 61.48
+  },
+  {
+    "Year": 2067,
+    "Current Scenario": 61.61
+  },
+  {
+    "Year": 2068,
+    "Current Scenario": 61.74
+  },
+  {
+    "Year": 2069,
+    "Current Scenario": 61.86
+  },
+  {
+    "Year": 2070,
+    "Current Scenario": 61.98
+  },
+  {
+    "Year": 2071,
+    "Current Scenario": 62.09
+  },
+  {
+    "Year": 2072,
+    "Current Scenario": 62.2
+  },
+  {
+    "Year": 2073,
+    "Current Scenario": 62.29
+  },
+  {
+    "Year": 2074,
+    "Current Scenario": 62.38
+  },
+  {
+    "Year": 2075,
+    "Current Scenario": 62.45
+  },
+  {
+    "Year": 2076,
+    "Current Scenario": 62.51
+  },
+  {
+    "Year": 2077,
+    "Current Scenario": 62.57
+  },
+  {
+    "Year": 2078,
+    "Current Scenario": 62.6
+  },
+  {
     "Year": 2079,
-    "Current Scenario": 59.41
+    "Current Scenario": 62.63
   },
   {
     "Year": 2080,
-    "Current Scenario": 59.26
+    "Current Scenario": 62.65
   },
   {
     "Year": 2081,
-    "Current Scenario": 59.1
+    "Current Scenario": 62.65
   },
   {
     "Year": 2082,
-    "Current Scenario": 58.94
+    "Current Scenario": 62.65
   },
   {
     "Year": 2083,
-    "Current Scenario": 58.77
+    "Current Scenario": 62.63
   },
   {
     "Year": 2084,
-    "Current Scenario": 58.59
+    "Current Scenario": 62.61
   },
   {
     "Year": 2085,
-    "Current Scenario": 58.41
+    "Current Scenario": 62.58
   },
   {
     "Year": 2086,
-    "Current Scenario": 58.22
+    "Current Scenario": 62.53
   },
   {
     "Year": 2087,
-    "Current Scenario": 58.02
+    "Current Scenario": 62.49
   },
   {
     "Year": 2088,
-    "Current Scenario": 57.83
+    "Current Scenario": 62.43
   },
   {
     "Year": 2089,
-    "Current Scenario": 57.63
+    "Current Scenario": 62.37
   },
   {
     "Year": 2090,
-    "Current Scenario": 57.42
+    "Current Scenario": 62.3
   },
   {
     "Year": 2091,
-    "Current Scenario": 57.22
+    "Current Scenario": 62.22
   },
   {
     "Year": 2092,
-    "Current Scenario": 57.01
+    "Current Scenario": 62.14
   },
   {
     "Year": 2093,
-    "Current Scenario": 56.79
+    "Current Scenario": 62.06
   },
   {
     "Year": 2094,
-    "Current Scenario": 56.58
+    "Current Scenario": 61.97
   },
   {
     "Year": 2095,
-    "Current Scenario": 56.37
+    "Current Scenario": 61.88
   },
   {
     "Year": 2096,
-    "Current Scenario": 56.16
+    "Current Scenario": 61.78
   },
   {
     "Year": 2097,
-    "Current Scenario": 55.95
+    "Current Scenario": 61.7
   },
   {
     "Year": 2098,
-    "Current Scenario": 55.75
+    "Current Scenario": 61.61
   },
   {
     "Year": 2099,
-    "Current Scenario": 55.55
+    "Current Scenario": 61.52
   },
   {
     "Year": 2100,
-    "Current Scenario": 55.34
+    "Current Scenario": 61.43
   }
 ]
